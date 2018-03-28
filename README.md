@@ -4,12 +4,9 @@ Your main task this week is to install the software that you will use for the re
 You will also do some basic exploration of Chicago city salaries with command line tools.
 To "accept" the assignment and create your repository, you must first complete the setup instructions below, including creating your GitHub account.
 
-This week's assignment is graded only for completeness.
-That means: the installation is shown to be working, and there are reasonable answers for all of the qustions.
-
 The assignment is due Thursday, April 5th by 10:30am.
 
-## Preliminaries/Setup
+## Setup
 
 Please see separate instructions for [Windows](https://harris-ippp.github.io/windows_install) and [Macs](https://harris-ippp.github.io/mac_install), to install your terminal, python, and text editor.
 
@@ -18,8 +15,8 @@ You can then join this assignment [here](https://classroom.github.com/a/l08HbtXA
   The choice of directory is up to you -- just as you'd save the documents for any other class.
   Remember that a terminal is analogous to Windows Explorer or Mac Finder.  It allows you to navigate and access your files.
   * On Cygwin, your "normal" directory structure (your C:\ drive) lives at `/cygdrive/c/`.
-* Run `git clone git@github.com:harris-ippp/s18-hw01-username.git` (replacing `Username` by your GitHub user name), to download the directory.  If this fails, then something has (likely) gone wrong in your ssh setup.  Go back and check the instructions for setting up GitHub ssh keys.
-* Now `cd` into that directory (`cd s18-hw01-username`) to get started.  (Again replacing "userame" with your GitHub username!)
+* Run `git clone git@github.com:harris-ippp/s18-a01-username.git` (replacing `Username` by your GitHub user name), to download the directory.  If this fails, then something has (likely) gone wrong in your ssh setup.  Go back and check the instructions for setting up GitHub ssh keys.
+* Now `cd` into that directory (`cd s18-a01-username`) to get started.  (Again replacing "userame" with your GitHub username!)
 
 ### Data
 
