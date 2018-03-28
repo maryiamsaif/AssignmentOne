@@ -67,7 +67,7 @@ git commit -m "done"                                  # use any commit message y
 git push                                              # push back to GitHub
 ```
 
-Now go online to your GitHub repository page), to check that everything is there:
+Now go online to your GitHub repository page (again substituting your username), to check that everything is there:
 
 * https://github.com/harris-ippp/s18-a01-username
 
