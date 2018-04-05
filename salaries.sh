@@ -15,7 +15,7 @@ cut -d, -f4 salaries.csv| grep "F"| wc -l>>ANSWERS.txt
 printf "\r\n" >> ANSWERS.txt
 
 # 3. How many part-time workers are there in the file?
-#search for "F" in column F4 (Full or part-time) and then use wc to count lines
+#search for "P" in column F4 (Full or part-time) and then use wc to count lines
 cut -d, -f4 salaries.csv| grep "P"| wc -l>>ANSWERS.txt
 printf "\r\n" >> ANSWERS.txt
 
